@@ -1,112 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=chicguy-yan%20%7C%20Research%20Builder&fontSize=54&fontAlign=50&fontAlignY=38&color=0:06131f,45:0b7fab,100:f97316&fontColor=ffffff&desc=Lab%20Agents%20%7C%20Education%20Agents%20%7C%20Multi-agent%20Engineering&descSize=20&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=chicguy-yan%20%7C%20AI-native%20Builder&fontSize=50&fontAlign=50&fontAlignY=38&color=0:06131f,45:0b7fab,100:f97316&fontColor=ffffff&desc=Coding%20Agents%20%C2%B7%20Claude%20Code%20Skills%20%C2%B7%20Multi-agent%20Engineering&descSize=20&descAlignY=58&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=72F2FF&center=true&vCenter=true&width=980&lines=Hi%2C+I%27m+chicguy-yan;Researcher+%2B+builder+for+intelligent+systems;Lab+agents+%7C+education+agents+%7C+multi-agent+workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=72F2FF&center=true&vCenter=true&width=980&lines=Hi%2C+I%27m+Silas+(chicguy-yan);Coding-agent+research+%C3%97+Claude+Code+skills;Research+agents+%7C+Education+agents+%7C+Multi-agent+workflows)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=chicguy-yan&style=flat-square&color=36BCF7" alt="profile views" />
   <img src="https://img.shields.io/github/followers/chicguy-yan?style=flat-square&color=0A66C2&labelColor=1f2937" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Focus-Research%20Agents%20%2F%20TS%20%2F%20Python-f97316?style=flat-square&labelColor=1f2937" alt="focus" />
+  <img src="https://img.shields.io/badge/Focus-Coding%20Agents%20%2F%20Skills%20%2F%20Multi--agent-f97316?style=flat-square&labelColor=1f2937" alt="focus" />
 </p>
 
 </div>
 
-## About Me
+## 关于我 · About Me
 
 ```txt
-I build intelligent systems around research and real-world workflows:
-- lab-oriented research agents
-- education-focused agent products
-- multi-agent engineering and fast prototyping
+我在构建一套 AI-native 的工作系统，把"和 AI 协作的工作台"本身当作研究对象与交付物。
+I build AI-native working systems, treating "the workbench I collaborate with AI on" as both the research object and the deliverable.
 ```
 
-- Current focus: **Research agents / education agents / multi-agent systems**
-- Style: **Geek aesthetics + engineering rigor + fast iteration**
-- Motto: **"Break it, learn it, rebuild it cleaner."**
+- **主线 / Main line**：coding-agent 研究 + Claude Code skills 构建 — *coding-agent research & Claude Code skill building*
+- **支线 / Side lines**：实验科研 agent、教育 agent、多 agent 工程 — *lab-research agents, education agents, multi-agent engineering*
+- **风格 / Style**：极客审美 + 工程严谨 + 快速迭代 — *geek aesthetics, engineering rigor, fast iteration*
+- **信条 / Motto**：**"Break it, learn it, rebuild it cleaner."**
 
 ---
 
-## Featured Projects
+## 精选项目 · Featured Projects
+
+> 按"主线在前、支线在后"排列。<br/>*Ordered main line first, side lines after.*
+
+### 主线 · Coding Agents & Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### learn_agent_harness_for_expertise
+深读各家 coding-agent 的工程骨架（claude-code 等），把 agent harness 的设计模式拆成可复用的认知。<br/>
+*Deep study of coding-agent harnesses — turning their engineering scaffolds into reusable design patterns.*
+
+`TypeScript` · agent-harness · code-reading
+
+[→ repo](https://github.com/chicguy-yan/learn_agent_harness_for_expertise)
+
+</td>
+<td width="33%" valign="top">
+
+### internship_skill
+一个 Claude Code Skill：按「行业认知 / Agent 产品设计 / 前后端研发 / Case 故事库」4 层架构持续累积实习全景 wiki。<br/>
+*A Claude Code skill that grows a full-picture internship wiki across a 4-layer taxonomy.*
+
+`Skill` · knowledge-system · C-end agents
+
+[→ repo](https://github.com/chicguy-yan/internship_skill)
+
+</td>
+<td width="33%" valign="top">
+
+### script_writing_skill
+一个 Claude Code Skill：国风短剧编剧工作流，含情绪种子工具箱、trope-function 库与 OH 卡提问法。<br/>
+*A Claude Code skill for short-drama screenwriting — emotional-seed toolkit, trope library, OH-card prompting.*
+
+`Skill` · screenwriting · prompt-design
+
+[→ repo](https://github.com/chicguy-yan/script_writing_skill)
+
+</td>
+</tr>
+</table>
+
+### 支线 · Research · Education · Multi-agent
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### lab-research-claw
-My core project: a lab agent system designed for research workflows, experiment organization, and intelligent lab assistance.
+面向实验学科（材料/化学/环境/生物）的透明 AI Agent，用文件系统替代黑盒向量库，让每条建议都可追溯。<br/>
+*A transparent AI agent for experimental sciences — files over a black-box vector DB, every suggestion traceable.*
 
-**Highlights**
-- Research-oriented lab agent
-- Python-first system with TypeScript support
-- Built for experiment flow and scientific productivity
+`Python` · FastAPI · LangGraph
 
-Link: [chicguy-yan/lab-research-claw](https://github.com/chicguy-yan/lab-research-claw)
-
-</td>
-<td width="33%" valign="top">
-
-### TAP
-An education agent project aimed at building smarter learning interactions and structured educational workflows.
-
-**Highlights**
-- Education-focused agent design
-- TypeScript product implementation
-- Learning workflow exploration
-
-Link: [chicguy-yan/TAP](https://github.com/chicguy-yan/TAP)
+[→ repo](https://github.com/chicguy-yan/lab-research-claw)
 
 </td>
 <td width="33%" valign="top">
 
 ### multi-agent-worktree-lab
-A workflow lab for multi-agent collaboration, worktree-based isolation, and iterative engineering experiments.
+把"多 agent 协作开发"收敛成可审计的工程模式：git worktree 隔离 + JSON 契约 + CI merge gate。<br/>
+*Multi-agent dev distilled into an auditable engineering pattern: worktree isolation, JSON contracts, CI gate.*
 
-**Highlights**
-- Multi-agent collaboration patterns
-- Worktree-oriented engineering setup
-- Experiment-first infrastructure mindset
+`Python` · git-worktree · CI-gate
 
-Link: [chicguy-yan/multi-agent-worktree-lab](https://github.com/chicguy-yan/multi-agent-worktree-lab)
+[→ repo](https://github.com/chicguy-yan/multi-agent-worktree-lab)
+
+</td>
+<td width="33%" valign="top">
+
+### TAP
+高考数学 AI-native 错题本原型，把每道错题沉淀成可复用思维图式：Trigger / Action / Pitfall。<br/>
+*An AI-native mistake notebook for Gaokao math — every mistake becomes a reusable Trigger/Action/Pitfall schema.*
+
+`TypeScript` · education-agent · prototype
+
+[→ repo](https://github.com/chicguy-yan/TAP)
 
 </td>
 </tr>
 </table>
 
-### Recent Signal
+### 近期信号 · Recent Signal
 
 ```txt
-[2026-04-03] lab-research-claw          :: core project :: lab agent for researchers
-[2026-04-02] multi-agent-worktree-lab   :: Python :: multi-agent workflow lab
-[2026-01-22] TAP                        :: TypeScript :: education agent
+[2026-06-07] internship_skill                  :: Claude Code skill :: 实习全景 wiki builder
+[2026-05-24] workflow-for-model-test           :: Python :: 模型测试 / 文生·文图·视频 prompt 流水线
+[2026-05-10] learn_agent_harness_for_expertise :: TypeScript :: coding-agent harness 精读
+[2026-04-24] script_writing_skill              :: Claude Code skill :: 国风短剧编剧
+[2026-04-06] TAP                               :: TypeScript :: 高考数学错题本原型
+[2026-04-03] lab-research-claw                 :: Python :: 实验学科透明 agent
 ```
 
 <div align="center">
+  <a href="https://github.com/chicguy-yan/learn_agent_harness_for_expertise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=learn_agent_harness_for_expertise&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
+  </a>
   <a href="https://github.com/chicguy-yan/lab-research-claw">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=lab-research-claw&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
   </a>
   <a href="https://github.com/chicguy-yan/multi-agent-worktree-lab">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=multi-agent-worktree-lab&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
   </a>
-  <a href="https://github.com/chicguy-yan/TAP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=TAP&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
-  </a>
 </div>
 
 ---
 
-## Tech Stack
+## 技术栈 · Tech Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-0b7fab?style=for-the-badge&logo=semanticscholar&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Research-Agent](https://img.shields.io/badge/Research_Agents-0b7fab?style=for-the-badge&logo=semanticsscholar&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Education-Agent](https://img.shields.io/badge/Education_Agents-F97316?style=for-the-badge&logo=bookstack&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-06131F?style=for-the-badge&logo=githubactions&logoColor=72F2FF)
 
 </div>
 
