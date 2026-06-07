@@ -19,8 +19,8 @@
 I build AI-native working systems, treating "the workbench I collaborate with AI on" as both the research object and the deliverable.
 ```
 
-- **主线 / Main line**：coding-agent 研究 + Claude Code skills 构建 — *coding-agent research & Claude Code skill building*
-- **支线 / Side lines**：实验科研 agent、教育 agent、多 agent 工程 — *lab-research agents, education agents, multi-agent engineering*
+- **主线 / Main line**：实验科研 agent、多 agent 工程、教育 agent — *lab-research agents, multi-agent engineering, education agents*
+- **支线 / Side lines**：coding-agent 研究 + Claude Code skills 构建 — *coding-agent research & Claude Code skill building*
 - **风格 / Style**：极客审美 + 工程严谨 + 快速迭代 — *geek aesthetics, engineering rigor, fast iteration*
 - **信条 / Motto**：**"Break it, learn it, rebuild it cleaner."**
 
@@ -30,47 +30,7 @@ I build AI-native working systems, treating "the workbench I collaborate with AI
 
 > 按"主线在前、支线在后"排列。<br/>*Ordered main line first, side lines after.*
 
-### 主线 · Coding Agents & Skills
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### learn_agent_harness_for_expertise
-深读各家 coding-agent 的工程骨架（claude-code 等），把 agent harness 的设计模式拆成可复用的认知。<br/>
-*Deep study of coding-agent harnesses — turning their engineering scaffolds into reusable design patterns.*
-
-`TypeScript` · agent-harness · code-reading
-
-[→ repo](https://github.com/chicguy-yan/learn_agent_harness_for_expertise)
-
-</td>
-<td width="33%" valign="top">
-
-### internship_skill
-一个 Claude Code Skill：按「行业认知 / Agent 产品设计 / 前后端研发 / Case 故事库」4 层架构持续累积实习全景 wiki。<br/>
-*A Claude Code skill that grows a full-picture internship wiki across a 4-layer taxonomy.*
-
-`Skill` · knowledge-system · C-end agents
-
-[→ repo](https://github.com/chicguy-yan/internship_skill)
-
-</td>
-<td width="33%" valign="top">
-
-### script_writing_skill
-一个 Claude Code Skill：国风短剧编剧工作流，含情绪种子工具箱、trope-function 库与 OH 卡提问法。<br/>
-*A Claude Code skill for short-drama screenwriting — emotional-seed toolkit, trope library, OH-card prompting.*
-
-`Skill` · screenwriting · prompt-design
-
-[→ repo](https://github.com/chicguy-yan/script_writing_skill)
-
-</td>
-</tr>
-</table>
-
-### 支线 · Research · Education · Multi-agent
+### 主线 · Research · Education · Multi-agent
 
 <table>
 <tr>
@@ -110,6 +70,46 @@ I build AI-native working systems, treating "the workbench I collaborate with AI
 </tr>
 </table>
 
+### 支线 · Coding Agents & Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### learn_agent_harness_for_expertise
+深读各家 coding-agent 的工程骨架（claude-code 等），把 agent harness 的设计模式拆成可复用的认知。<br/>
+*Deep study of coding-agent harnesses — turning their engineering scaffolds into reusable design patterns.*
+
+`TypeScript` · agent-harness · code-reading
+
+[→ repo](https://github.com/chicguy-yan/learn_agent_harness_for_expertise)
+
+</td>
+<td width="33%" valign="top">
+
+### internship_skill
+一个 Claude Code Skill：按「行业认知 / Agent 产品设计 / 前后端研发 / Case 故事库」4 层架构持续累积实习全景 wiki。<br/>
+*A Claude Code skill that grows a full-picture internship wiki across a 4-layer taxonomy.*
+
+`Skill` · knowledge-system · C-end agents
+
+[→ repo](https://github.com/chicguy-yan/internship_skill)
+
+</td>
+<td width="33%" valign="top">
+
+### script_writing_skill
+一个 Claude Code Skill：国风短剧编剧工作流，含情绪种子工具箱、trope-function 库与 OH 卡提问法。<br/>
+*A Claude Code skill for short-drama screenwriting — emotional-seed toolkit, trope library, OH-card prompting.*
+
+`Skill` · screenwriting · prompt-design
+
+[→ repo](https://github.com/chicguy-yan/script_writing_skill)
+
+</td>
+</tr>
+</table>
+
 ### 近期信号 · Recent Signal
 
 ```txt
@@ -122,14 +122,14 @@ I build AI-native working systems, treating "the workbench I collaborate with AI
 ```
 
 <div align="center">
-  <a href="https://github.com/chicguy-yan/learn_agent_harness_for_expertise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=learn_agent_harness_for_expertise&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
-  </a>
   <a href="https://github.com/chicguy-yan/lab-research-claw">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=lab-research-claw&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
   </a>
   <a href="https://github.com/chicguy-yan/multi-agent-worktree-lab">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=multi-agent-worktree-lab&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
+  </a>
+  <a href="https://github.com/chicguy-yan/learn_agent_harness_for_expertise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=learn_agent_harness_for_expertise&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
   </a>
 </div>
 
