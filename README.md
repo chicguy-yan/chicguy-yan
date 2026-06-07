@@ -38,18 +38,17 @@ A non-engineer by training — yet building things with AI is second nature.
 
 > 低代码 / Agent 平台 · Vibe coding 工具 · 产品原型工具 —— 编排 AI 多过手写代码。<br/>*Low-code & agent platforms · vibe-coding tools · prototyping — orchestrating AI more than hand-writing code.*
 
-- **主线 / Main line**：实验科研 agent、多 agent 工程、教育 agent — *lab-research agents, multi-agent engineering, education agents*
-- **支线 / Side lines**：coding-agent 研究 + Claude Code skills 构建 — *coding-agent research & Claude Code skill building*
+- **在做什么 / What I work on**：AI Agent 产品与工程（科研 / 多 agent / 教育）＋ coding-agent 研究与 Claude Code skills — *building agent products & systems, plus studying coding agents and shipping Claude Code skills*
 - **风格 / Style**：跨学科迁移 + 产品直觉 + 快速迭代 — *cross-disciplinary transfer, product intuition, fast iteration*
 - **信条 / Motto**：**"Break it, learn it, rebuild it cleaner."**
 
 ---
 
-## 精选项目 · Featured Projects
+## 主要项目展示 · Featured Projects
 
-> 按"主线在前、支线在后"排列。<br/>*Ordered main line first, side lines after.*
+> 按维度分类，不分主次。<br/>*Grouped by theme, no ranking implied.*
 
-### 主线 · Research · Education · Multi-agent
+### AI Agent 产品 · 工程 · Agent Products & Engineering
 
 <table>
 <tr>
@@ -89,7 +88,7 @@ A non-engineer by training — yet building things with AI is second nature.
 </tr>
 </table>
 
-### 支线 · Coding Agents & Skills
+### Coding Agent · Claude Code Skills
 
 <table>
 <tr>
