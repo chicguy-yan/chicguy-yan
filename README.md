@@ -15,13 +15,32 @@
 ## 关于我 · About Me
 
 ```txt
-我在构建一套 AI-native 的工作系统，把"和 AI 协作的工作台"本身当作研究对象与交付物。
-I build AI-native working systems, treating "the workbench I collaborate with AI on" as both the research object and the deliverable.
+非技术出身，但"用 AI 把事情做成"已经是本能。
+A non-engineer by training — yet building things with AI is second nature.
 ```
+
+我把**抽象思维**和**跨学科知识迁移**当作这个时代最通用的杠杆：把一个领域里行得通的范式，搬到另一个领域重新长出来。
+日常用 **AI 工作流（Workflow）** 处理复杂的科研与生活事务——不为自动化而自动化，而是在反复"造"的过程里，养出对技术的理解直觉。
+也爱拆解各类 AI 产品，反复追问同一个问题：**什么才算真正"AI-native"的产品范式？**
+
+> *Abstract thinking and cross-disciplinary transfer are my most general levers — I port a paradigm that works in one field and regrow it in another. I run AI workflows on real research-and-life tasks, not for automation's sake but to grow a felt intuition for technology by making things. And I love taking AI products apart, always asking: what makes a product truly "AI-native"?*
+
+**我怎么造东西 · How I build**
+
+<p>
+  <img src="https://img.shields.io/badge/Dify-1C64F2?style=for-the-badge&logo=dify&logoColor=white" alt="Dify" />
+  <img src="https://img.shields.io/badge/Coze-4B5FFF?style=for-the-badge&logoColor=white" alt="Coze" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google AI Studio" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+> 低代码 / Agent 平台 · Vibe coding 工具 · 产品原型工具 —— 编排 AI 多过手写代码。<br/>*Low-code & agent platforms · vibe-coding tools · prototyping — orchestrating AI more than hand-writing code.*
 
 - **主线 / Main line**：实验科研 agent、多 agent 工程、教育 agent — *lab-research agents, multi-agent engineering, education agents*
 - **支线 / Side lines**：coding-agent 研究 + Claude Code skills 构建 — *coding-agent research & Claude Code skill building*
-- **风格 / Style**：极客审美 + 工程严谨 + 快速迭代 — *geek aesthetics, engineering rigor, fast iteration*
+- **风格 / Style**：跨学科迁移 + 产品直觉 + 快速迭代 — *cross-disciplinary transfer, product intuition, fast iteration*
 - **信条 / Motto**：**"Break it, learn it, rebuild it cleaner."**
 
 ---
@@ -131,23 +150,6 @@ I build AI-native working systems, treating "the workbench I collaborate with AI
   <a href="https://github.com/chicguy-yan/learn_agent_harness_for_expertise">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chicguy-yan&repo=learn_agent_harness_for_expertise&theme=transparent&hide_border=true&title_color=72F2FF&text_color=C9D1D9&icon_color=F97316" />
   </a>
-</div>
-
----
-
-## 技术栈 · Tech Stack
-
-<div align="center">
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Agent Skills](https://img.shields.io/badge/Agent_Skills-0b7fab?style=for-the-badge&logo=semanticscholar&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 ---
